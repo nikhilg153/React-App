@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  background-color: rebeccapurple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  border-color: red;
+  border-radius: 12px;
+  background: yellow;
+  margin: 10px;
+}
+button:hover{
+  background-color: hotpink;
+}
